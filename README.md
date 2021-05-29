@@ -1,6 +1,6 @@
 # Software-Design-CS313E
 
-A collection of CS313E projects and tests. Below are the descriptions to the assignments. Overall, I learned how to analyze and design software. Also, I learned how to create reusable software components and to compose programs from already available components. In addition, I learned about some basic data structures and algorithms and how to match the data structures and algorithms to problems. Finally, I valuated programs for their functionality and their performance.
+A collection of CS313E projects and tests. Below are the descriptions to the assignments. Overall, I learned how to analyze and design software, how to create reusable software components, and how to compose programs from already available components. In addition, I learned about some basic data structures and algorithms and how to match the data structures and algorithms to problems. Finally, I valuated programs for their functionality and their performance.
 
 Overall, the course covered 
 
