@@ -4,7 +4,8 @@ A collection of CS313E projects and tests. Below are the descriptions to the ass
 
 Overall, the course covered 
 
-Assignment 1 (Spiral): https://www.cs.utexas.edu/users/mitra/csSpring2021/cs313/assgn/assgn1.html 
+Assignment 1 (Spiral): 
+https://www.cs.utexas.edu/users/mitra/csSpring2021/cs313/assgn/assgn1.html 
 
 Assignment 2 (Intervals): https://www.cs.utexas.edu/users/mitra/csSpring2021/cs313/assgn/assgn2.html 
 
@@ -16,7 +17,8 @@ Assignment 5 (Office Space): https://www.cs.utexas.edu/users/mitra/csSpring2021/
 
 Assignment 6 (Convex Hull): https://www.cs.utexas.edu/users/mitra/csSpring2021/cs313/assgn/assgn6.html 
 
-Assignment 7 (Work): https://www.cs.utexas.edu/users/mitra/csSpring2021/cs313/assgn/assgn7.html 
+Assignment 7 (Work):
+https://www.cs.utexas.edu/users/mitra/csSpring2021/cs313/assgn/assgn7.html 
 
 Assignment 8 (Palindrome): https://www.cs.utexas.edu/users/mitra/csSpring2021/cs313/assgn/assgn8.html 
 
